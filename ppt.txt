@@ -1,0 +1,133 @@
+
+
+---
+
+Slide 1: Title Slide
+
+Project Title: Subscription Data Manager
+
+Team Name: Subscription Savvy
+
+Team Members: (Names & Roles)
+
+Hackathon Name: (Hackathon Name and Date)
+
+
+
+---
+
+Slide 2: Problem Statement
+
+Key Challenge:
+People subscribe to multiple services (e.g., streaming, fitness apps, SaaS platforms), and managing these subscriptions manually leads to overlooked renewals, payment failures, and redundant services.
+
+Impact:
+
+Financial losses due to unused subscriptions.
+
+Difficulty tracking renewal dates and costs.
+
+
+
+
+---
+
+Slide 3: Abstract
+
+Goal:
+Build a subscription data gathering app that consolidates and tracks all subscriptions, offering users insights, reminders, and cost-saving suggestions.
+
+Focus Area:
+Personal Finance and Utility Management.
+
+
+
+---
+
+Slide 4: Scope & Objectives
+
+Scope:
+
+Provide centralized tracking for all subscriptions.
+
+Help users optimize subscription spending.
+
+
+Objectives:
+
+Automatically identify subscriptions from linked bank statements or email.
+
+Notify users of upcoming renewals and cancellations.
+
+Offer analytics on spending trends.
+
+
+
+
+---
+
+Slide 5: Innovative Solution
+
+Core Features:
+
+Subscription Discovery: Automatically scan bank transactions or emails for recurring payments.
+
+Dashboard: Display all subscriptions with details like cost, renewal dates, and service category.
+
+Reminders: Notify users before renewals to avoid missed payments or unwanted auto-renewals.
+
+Cancellation Assistance: Guide users to cancel unnecessary or redundant subscriptions.
+
+Analytics: Visualize spending trends by category, month, or provider.
+
+
+
+
+---
+
+Slide 6: Prototype
+
+(Add mockups/screenshots here)
+
+Subscription Dashboard: Displays all active subscriptions with cost and renewal dates.
+
+Spend Analysis Chart: Monthly breakdown of subscription spending.
+
+Upcoming Renewals Section: Notifications for renewals due in the next 7 days.
+
+Add Subscription Feature: Manual addition for untracked subscriptions.
+
+
+
+---
+
+Slide 7: Technical Stack
+
+Frontend: React Native for cross-platform compatibility.
+
+Backend: Node.js + Express for API handling.
+
+Database: MongoDB for storing subscription data.
+
+APIs:
+
+Plaid API for bank statement parsing.
+
+Gmail API for scanning email invoices.
+
+Firebase for push notifications.
+
+
+
+
+---
+
+Slide 8: Conclusion
+
+Key Takeaways:
+
+Helps users save time and money by managing subscriptions effectively.
+
+Provides financial clarity with detailed analytics.
+
+Future enhancements: Integration with AI for personalized subscription suggestions and cost optimization.

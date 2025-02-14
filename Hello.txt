@@ -3,4 +3,8 @@ This is my repositry
 I want to add it to repositry
 I am shivam ravani
 
+<<<<<<< HEAD
 This changed is made by Main branch
+=======
+This changed is made by Developer
+>>>>>>> Develop
